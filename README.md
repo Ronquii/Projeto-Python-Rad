@@ -6,8 +6,10 @@ O objetivo é centralizar e otimizar a organização dos projetos e atividades d
 
 A aplicação tem como propósito centralizar informações, melhorar a comunicação entre participantes e otimizar processos como cadastro de projetos, controle de calendário e gestão de usuários.
 
-# Tecnologias: 
-O desenvolvimento contempla tanto o front-end, com uma interface web intuitiva, quanto o back-end, com autenticação segura e integração com banco de dados SQLite.
+# Tecnologias Utilizadas
+Backend: Python + Flask
+Frontend: HTML, CSS, JavaScript
+Banco de Dados: SQLite
 
 # Alunos 
 - Camila Marinho Dourado (RA 202402393839)
